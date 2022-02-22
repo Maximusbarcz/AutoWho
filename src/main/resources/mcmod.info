@@ -1,8 +1,8 @@
 [
   {
-    "modid": "forgetemplate",
-    "name": "ForgeTemplate",
-    "description": "An example template",
+    "modid": "autowhoreborn",
+    "name": "autoWho Reborn",
+    "description": "autoWho mod cubelify but reborn",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
