@@ -1,4 +1,4 @@
-# AutoWho
+# AutoWho Reborn
 ![Download Count](https://img.shields.io/github/downloads/Maximusbarcz/AutoWho/total?color=08ff52&style=for-the-badge)
 ![Latest Download Count](https://img.shields.io/github/downloads-pre/Maximusbarcz/AutoWho/latest/total?color=08ff52&style=for-the-badge)
 
