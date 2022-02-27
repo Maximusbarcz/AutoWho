@@ -6,3 +6,5 @@
 ## Mod that dose /who when you join a game on hypixel made for stats overlayers, i think there was a mod like this that broke but here you go the best 1 is here!
 
 btw the command is /autowho
+
+# Join my Discord: https://discord.gg/NkY3VnGeUX
